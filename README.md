@@ -6,7 +6,6 @@
 1.引用  load-more.js
 2.绑定js
 `````
-<div v-load-more={"top":scrollTop,"bottom":scrollBottom}">
-</div>
+<div v-load-more={"top":scrollTop,"bottom":scrollBottom}"></div>
 `````
 3.scrollTop,scrollBottom (event) // 选填 
