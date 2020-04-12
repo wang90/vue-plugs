@@ -3,9 +3,9 @@
 使用版本vue > 2.0
 
 #### 监听div滚动  load-more
-1.引用  load-more.js
-2.绑定js
+1.引用  load-more.js    
+2.绑定js    
 `````
 <div v-load-more={"top":scrollTop,"bottom":scrollBottom}"></div>
 `````
-3.scrollTop,scrollBottom (event) // 选填 
+3.scrollTop,scrollBottom (event) // 选填     
