@@ -1,6 +1,6 @@
 # vue-plugs
 # 这是一个基于vue组建应用的类型库
-使用版本vue >= 2.0    
+基础库vue >= 1.0  
 
 #### 监听div滚动  load-more
 1.引用  load-more.js    
