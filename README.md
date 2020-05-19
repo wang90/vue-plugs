@@ -8,4 +8,8 @@
 `````
 <div v-load-more={"top":scrollTop,"bottom":scrollBottom}"></div>
 `````
-3.scrollTop,scrollBottom (event) // 选填     
+3.参数
+``````
+@parms scrollTop
+@parms scrollBottom 
+``````
