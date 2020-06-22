@@ -1,5 +1,5 @@
 // 检测div滚动到底部指令
-Vue.directive("load-more", {
+Vue.directive("load", {
   inserted: function (el, binding) {
     try {
       var value = binding.value;
